@@ -1,5 +1,12 @@
 # Computer Vision Papers
 
+A collection of foundational and highly influential deep learning model papers in computer vision, grouped by tasks.
+
+- [Foundational and Architecture Innovations](#foundational-and-architecture-innovations)
+- [Object Detection](#object-detection)
+- [Semantic Segmentation](#semantic-segmentation)
+- [Instance Segmentation](#instance-segmentation)
+
 ## Papers
 
 ### Foundational and Architecture Innovations
