@@ -23,12 +23,6 @@
 | 2016 | YOLO | [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) |
 | 2015 | Faster R-CNN | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) |
 
-### Instance Segmentation
-| Year | Name | Paper |
-|------|------|-------|
-| 2019 | SOLO | [SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488) |
-| 2017 | Mask R-CNN | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
-
 ### Semantic Segmentation
 | Year | Name | Paper |
 |------|------|-------|
@@ -36,3 +30,9 @@
 | 2016 | DeepLab | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) |
 | 2015 | U-Net | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) |
 | 2015 | FCN | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) |
+
+### Instance Segmentation
+| Year | Name | Paper |
+|------|------|-------|
+| 2019 | SOLO | [SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488) |
+| 2017 | Mask R-CNN | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
