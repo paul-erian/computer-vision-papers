@@ -2,14 +2,15 @@
 
 A collection of foundational and highly influential deep learning model papers in computer vision, grouped by tasks.
 
-- [Foundational and Architecture Innovations](#foundational-and-architecture-innovations)
+- [Foundational Architecture](#foundational-architecture)
 - [Object Detection](#object-detection)
 - [Semantic Segmentation](#semantic-segmentation)
 - [Instance Segmentation](#instance-segmentation)
 
 ## Papers
 
-### Foundational and Architecture Innovations
+### Foundational Architecture
+
 | Year | Name | Paper |
 |------|------|-------|
 | 2022 | ConvNeXt | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) |
