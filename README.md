@@ -48,6 +48,3 @@ A personal collection of awesome papers on deep learning for computer vision and
 | 2020 | [Towards CRISP-ML(Q): A Machine Learning Process Model with Quality Assurance Methodology](https://arxiv.org/pdf/2003.05155) |
 | 2019 | [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/wp-content/uploads/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf)
 | 2015 | [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) |
-
-#TODO : RCNN, Fast RCNN, tracking, similarity learning
-#IDEAS : sensor fusion
