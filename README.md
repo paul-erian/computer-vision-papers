@@ -1,11 +1,11 @@
 # Computer Vision Papers
 
-A collection of foundational and highly influential deep learning model papers in computer vision, grouped by tasks.
+A personal collection of awesome papers on deep learning for computer vision and applied ML.
 
 - [Foundational Architecture](#foundational-architecture)
-- [Object Detection](#object-detection)
-- [Semantic Segmentation](#semantic-segmentation)
-- [Instance Segmentation](#instance-segmentation)
+- [Generic Object Detection](#generic-object-detection)
+- [Generic Object Segmentation](#generic-object-segmentation)
+- [Applied ML & MLOps](#applied-ml--mlops)
 
 ## Papers
 
