@@ -22,7 +22,7 @@ A collection of foundational and highly influential deep learning model papers i
 | 2012 | AlexNet | [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
 | 1998 | LeNet | [LeNet-5: Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/lenet/) |
 
-### Object Detection
+### Generic Object Detection
 | Year | Name | Paper |
 |------|------|-------|
 | 2020 | DETR | [DETR: End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) |
@@ -31,16 +31,16 @@ A collection of foundational and highly influential deep learning model papers i
 | 2016 | YOLO | [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) |
 | 2015 | Faster R-CNN | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) |
 
-### Semantic Segmentation
+### Generic Object Segmentation
 | Year | Name | Paper |
 |------|------|-------|
 | 2023 | SAM | [Segment Anything Model](https://arxiv.org/abs/2304.02643) |
+| 2019 | SOLO | [SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488) |
+| 2017 | Mask R-CNN | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
 | 2016 | DeepLab | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) |
 | 2015 | U-Net | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) |
 | 2015 | FCN | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) |
 
-### Instance Segmentation
-| Year | Name | Paper |
-|------|------|-------|
-| 2019 | SOLO | [SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488) |
-| 2017 | Mask R-CNN | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
+
+#TODO : RCNN, Fast RCNN, tracking, similarity learning
+#IDEAS : sensor fusion
