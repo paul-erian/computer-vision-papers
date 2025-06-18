@@ -25,6 +25,8 @@ A personal collection of awesome papers on deep learning for computer vision and
 | 1998 | LeNet | [LeNet-5: Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/lenet/) |
 
 ### Self Supervised Learning
+| Year | Name | Paper |
+|------|------|-------|
 | 2023 | DINOv2 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) |
 | 2021 | MAE | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) |
 
