@@ -2,14 +2,16 @@
 
 A personal collection of awesome papers on deep learning for computer vision and applied ML.
 
-- [Foundational Architecture](#foundational-architecture)
+- [Foundational Backbones](#foundational-backbones)
+- [Self Supervised Learning](#self-supervised-learning)
+- [Multi-Modal](#multi-modal)
 - [Generic Object Detection](#generic-object-detection)
 - [Generic Object Segmentation](#generic-object-segmentation)
 - [Applied ML & MLOps](#applied-ml--mlops)
 
 ## Papers
 
-### Foundational Architecture
+### Foundational Backbones
 
 | Year | Name | Paper |
 |------|------|-------|
@@ -21,6 +23,16 @@ A personal collection of awesome papers on deep learning for computer vision and
 | 2014 | VGG | [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) |
 | 2012 | AlexNet | [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) |
 | 1998 | LeNet | [LeNet-5: Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/lenet/) |
+
+### Self Supervised Learning
+| 2023 | DINOv2 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) |
+| 2021 | MAE | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) |
+
+### Multi-Modal
+| Year | Name | Paper |
+|------|------|-------|
+| 2023 | BLIP-2 | [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) |
+| 2021 | CLIP | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) |
 
 ### Generic Object Detection
 | Year | Name | Paper |
